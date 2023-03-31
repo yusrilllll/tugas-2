@@ -1,0 +1,16 @@
+ input nilai tugas
+90
+input nilai uts
+98
+input nilai uas
+90
+total nilai yang di dapatkan = 278
+nilai rata_rata yang di dapatkan adalah 92.66666666666667
+nilai akumulasi :92
+prediksi yang di dafatkan =A
+nilai akumulasi :92
+prediksi yang di dafatkan =B+
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
